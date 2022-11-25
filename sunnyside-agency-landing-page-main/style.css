@@ -1,0 +1,132 @@
+* {
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Outfit', sans-serif;
+
+}
+
+.first-division {
+    width: 1140px;
+    height: 500px;
+    background-image: url("/images/desktop/image-header.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    margin: 12px auto;
+}
+
+.firstnav-flex {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 691px;
+    margin-top: -22px;
+    color: white;
+
+}
+
+.box-1img {
+    width: 120px;
+    height: 40px;
+    margin-top: 23px;
+    margin-left: 20px;
+}
+
+a {
+    color: white;
+}
+
+.button-1 {
+    padding: 10px 12px;
+    border-radius: 18px;
+    border: none;
+    background-color: hsl(0, 0%, 100%);
+    color: black;
+    margin-top: -10px;
+}
+
+.header-h2 {
+    margin: 150px 400px;
+    font-size: 40px;
+    color: white;
+}
+
+.arrow {
+    margin-top: -100px;
+    margin-left: 540px;
+}
+
+
+
+/*second main*/
+
+.second-main {
+    width: 570px;
+    height: 290px;
+    background-color: rgb(251, 247, 247);
+    margin-left: 174px;
+    margin-top: -12px;
+}
+
+.secondh2 {
+    margin-left: 120px;
+    padding-top: 90px;
+
+}
+
+.second-mainpar {
+    margin-left: 120px;
+    padding-top: 10px;
+}
+
+.second-footer {
+    margin-left: 120px;
+    padding-top: 10px;
+    font-size: 19px;
+}
+
+.cont {
+    display: flex;
+}
+
+/*third section*/
+.third-img {
+    width: 570px;
+    height: 290px;
+    margin-left: 0px;
+    margin-top: -12px;
+}
+
+
+
+/*fourth section*/
+
+.forth-hole {
+    display: flex;
+}
+
+.fourth-img {
+    width: 570px;
+    height: 290px;
+    margin-left: 174px;
+    margin-top: -5px;
+}
+
+.fourthh2 {
+    margin-left: 120px;
+    padding-top: 90px;
+
+}
+
+.fourth-mainpar {
+    margin-left: 120px;
+    padding-top: 10px;
+}
+
+.fourth-footer {
+    margin-left: 120px;
+    padding-top: 10px;
+    font-size: 19px;
+    border-bottom-color: pink;
+}
